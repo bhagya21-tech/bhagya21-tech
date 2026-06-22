@@ -1,18 +1,97 @@
-# 💫 About Me:
-👉Bhagyashri Raut<br>👉Aspiring Data Scientist| Python • SQL • Machine Learning<br>👉Pune, Maharashtra, India<br>👉 I’m a beginner data enthusiast building real-world projects<br> to strengthen my skills in data analysis and machine learning.<br> I enjoy turning raw data into meaningful insights and continuously<br> learning new tools and technologies.<br>
+# 👋 Hi, I'm Bhagyashri Raut
 
+### AI & Machine Learning Enthusiast | Python Developer | Data Science Student
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_me_bee16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/bhagyashri-raut-471960322) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rautbhagya16@gmail.com) 
+📍 Pune, Maharashtra, India
 
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhagya21-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bhagya21-tech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagya21-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I enjoy building AI-powered applications, Machine Learning systems, Data Analytics dashboards, and Computer Vision solutions that solve real-world problems.
+
+Currently focused on developing end-to-end projects in AI, Data Science, Computer Vision, and Intelligent Automation while preparing for internships and open-source contributions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bhagya21-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### 🔹 AI Resume Fraud Detector
+
+AI-powered resume verification platform that analyzes GitHub activity, validates technical skills, and generates trust scores using semantic matching.
+
+### 🔹 VisionLoop
+
+Active Learning framework for Computer Vision that identifies uncertain predictions and optimizes image labeling workflows.
+
+### 🔹 Human Behavior Analytics
+
+Machine Learning system that analyzes app usage patterns, predicts user behavior, and generates personalized recommendations.
+
+### 🔹 Jarvis AI Assistant
+
+Desktop AI assistant capable of voice interaction, automation, intelligent task execution, and system control.
+
+### 🔹 Student Mental Health Dashboard
+
+Interactive dashboard for analyzing student mental health trends using data visualization and exploratory data analysis.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+### Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
+
+### Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv)
+
+### Visualization
+
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge\&logo=streamlit)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: [rautbhagya16@gmail.com](mailto:rautbhagya16@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/bhagyashri-raut-471960322
+
+🐙 GitHub: github.com/bhagya21-tech
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=bhagya21-tech\&show_icons=true\&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhagya21-tech\&theme=github-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhagya21-tech\&layout=compact\&theme=github_dark)
+
+---
+
+### 📈 2026 Goals
+
+* Build 10+ production-ready AI projects
+* Contribute to open source
+* Complete 100 Days of AI
+* Secure a Data Science / AI Internship
+* Grow GitHub contributions to 500+
